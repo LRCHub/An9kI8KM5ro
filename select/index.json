@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "息もできない",
+  "base_artist": "ZARD",
+  "createdAt": "2025-12-01T15:44:52.785223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "息もできない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_息もできない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "息もできない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_息もできない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "息もできない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_息もできない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "息もできない(Original Karaoke)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/04_息もできない(Original_Karaoke)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "息もできない (Original Karaoke",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/05_息もできない_(Original_Karaoke_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "息もできない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/06_息もできない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "息もできない",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/07_息もできない_ZARD.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "息もできない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/08_息もできない_ZARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "息もできないほど",
+      "artist": "NOVELS",
+      "has_synced": false,
+      "path": "select/pl_01_息もできないほど_NOVELS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "息もできない",
+      "artist": "NOVELS",
+      "has_synced": false,
+      "path": "select/pl_02_息もできない_NOVELS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "息もできないほど",
+      "artist": "NOVELS",
+      "has_synced": false,
+      "path": "select/pl_03_息もできないほど_NOVELS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "息もできない",
+      "artist": "NOVELS",
+      "has_synced": false,
+      "path": "select/pl_04_息もできない_NOVELS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "息もできないキスをして",
+      "artist": "NOVELS",
+      "has_synced": false,
+      "path": "select/pl_05_息もできないキスをして_NOVELS.txt"
+    }
+  ]
+}
